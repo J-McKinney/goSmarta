@@ -1,7 +1,7 @@
 {
-  "name": "gosmarta",
+  "name": "goSmarta",
   "version": "1.0.0",
-  "description": "\"a smarter marta system\"",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/SoLiD513/goSmarta.git"
   },
-  "author": "\"Jesse McKinney\"",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SoLiD513/goSmarta/issues"
   },
-  "homepage": "https://github.com/SoLiD513/goSmarta#readme"
+  "homepage": "https://github.com/SoLiD513/goSmarta#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
